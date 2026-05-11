@@ -12,7 +12,7 @@
 
 ## 👋 Por que eu criei isso?
 
-Eu desenvolvi esse projeto sozinha porque minha rotina é pesada e eu precisava de uma forma visual, rápida e satisfatória de enxergar tudo o que consegui concluir durante o dia. 🚀
+Eu desenvolvi esse projeto porque minha rotina é pesada e eu precisava de uma forma visual, rápida e satisfatória de enxergar tudo o que consegui concluir durante o dia. 🚀
 
 Sabe aquela sensação de terminar um treino intenso e postar um “tá pago”?  
 O **Elite Habit Tracker** virou a minha versão digital disso.
